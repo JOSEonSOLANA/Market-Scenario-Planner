@@ -1,6 +1,6 @@
 # 🧠 Market Scenario Planner
 
-### An information agent that explains market conditions and helps users plan actions based on intent and risk — without execution.
+### An information agent that explains market conditions and helps users plan actions based on intent and risk without execution.
 
 ---
 
@@ -229,3 +229,4 @@ Understand market conditions and plan actions based on intent and risk — no ex
 **Suggested tags:**  
 Info · Trading (context) · Decision Support · Productivity
 "# Market-Scenario-Planner" 
+
